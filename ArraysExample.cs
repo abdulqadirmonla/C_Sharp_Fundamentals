@@ -15,7 +15,7 @@ namespace DemoProject
 
             Console.WriteLine(numbers[0]);
             Console.WriteLine(numbers[1]);
-            Console.WriteLine("---------------");
+            Console.WriteLine("--------------");
         }
 
         public static void ArrayWithForLoop()
