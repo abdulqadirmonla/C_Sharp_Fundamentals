@@ -19,7 +19,7 @@ namespace DemoProject
             char c = 'a';
 
             // Writing to standard output:
-            Console.WriteLine("Any string name");
+            Console.WriteLine("Any string name  ");
             Console.WriteLine(x);
             Console.WriteLine("y = " + y);
             Console.WriteLine($"z = {z}");
