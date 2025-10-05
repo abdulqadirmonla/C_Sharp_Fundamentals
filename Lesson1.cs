@@ -19,7 +19,7 @@ namespace DemoProject
             char c = 'a';
 
             // Writing to standard output:
-            Console.WriteLine("Any string name");
+            Console.WriteLine("Any string name  ");
             Console.WriteLine(x);
             Console.WriteLine("y = " + y);
             Console.WriteLine($"z = {z}");
@@ -35,7 +35,7 @@ namespace DemoProject
 
             Console.Write("Enter the float value: ");
             float f = Convert.ToSingle(Console.ReadLine());
-            Console.WriteLine("f = " + f);
+            Console.WriteLine("f = " + f); 
 
 
             int age;

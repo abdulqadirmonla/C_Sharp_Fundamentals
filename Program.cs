@@ -5,6 +5,7 @@
         static void Main(string[] args)
         {
             ListsExample.Example1();
+            ListsExample.Example1();
 
         }
     }
